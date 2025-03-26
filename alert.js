@@ -1,1 +1,1 @@
-alert("pwnd");
+alert(document.cookie);
